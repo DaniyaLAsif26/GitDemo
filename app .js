@@ -1,1 +1,1 @@
-// New app feature
+// New app feature - Search Tab
